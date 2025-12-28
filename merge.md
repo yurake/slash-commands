@@ -1,3 +1,6 @@
+---
+description: Sync a branch with main preferring rebase, with fallback merge guidance and collaborative branch considerations.
+---
 merge from main.
 
 - git fetch origin 後、**まずは rebase を試す**：追従すべきブランチ（例: origin/main）に対して `git rebase origin/main` を行い、コンフリクトが出たら解消して `git rebase --continue`

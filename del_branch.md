@@ -1,3 +1,6 @@
+---
+description: Safely delete unnecessary local git branches while skipping checked-out or worktree branches and confirming remote deletion needs.
+---
 不要なブランチを削除して
 
 - git branchでブランチ一覧を取得

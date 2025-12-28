@@ -1,3 +1,6 @@
+---
+description: Explain the modified test cases in this branch—originating request, related todo references, and what the tests validate.
+---
 このブランチで変更の入っているテストケースについて説明して。
 
 - 要件: どの依頼に基づくものか。

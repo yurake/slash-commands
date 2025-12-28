@@ -1,3 +1,6 @@
+---
+description: Use github-mcp-server tools to locate PR (ask number), fetch Codex comments, fix them, push with Conventional Commit, and notify @codex.
+---
 github-mcp-server mcpのget_review_commentsでレビューを取得して。
 pr番号わからなかった聞き返して。
 codexからコメントがあることを確認したら、修正対応して。

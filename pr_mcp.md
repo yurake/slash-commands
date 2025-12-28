@@ -1,3 +1,6 @@
+---
+description: Create a PR with title type: RM-XXX <slug> using the template, replacing all placeholders with actual links/IDs.
+---
 PRを作成して
 
 - PR タイトルは type: RM-XXX <slug> の Conventional Commits 形式で記載すること（例: fix: RM-074 readme badges）

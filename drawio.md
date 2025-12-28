@@ -1,3 +1,6 @@
+---
+description: Guide to collect source notes, clarify elements/relations, and generate draw.io XML diagrams in temp after confirmation.
+---
 **draw.io の XML** 作成
 
 ## 最初の動作

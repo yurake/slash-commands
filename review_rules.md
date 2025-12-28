@@ -1,3 +1,6 @@
+---
+description: Extract persistent behavioral rules for Codex from the session, de-duplicate against AGENTS.md, and output only lasting meta-guidelines.
+---
 # name: review_rules
 # description: このセッションの会話から、Codex に恒久的に適用すべき振る舞いルールのみを抽出する
 

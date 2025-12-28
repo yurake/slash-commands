@@ -1,3 +1,6 @@
+---
+description: Perform deep root-cause analysis for the given error using web/context7/selena, propose evidence-backed fixes.
+---
 # error 対応
 
 ## role

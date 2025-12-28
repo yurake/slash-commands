@@ -1,3 +1,6 @@
+---
+description: Perform a holistic architecture/quality/maintainability review of the GitHub project as a senior software architect.
+---
 あなたはシニアソフトウェアアーキテクトです。
 この GitHub プロジェクト全体をレビューし、設計・品質・保守性を総合評価してください。
 

@@ -1,3 +1,6 @@
+---
+description: Create a structured handover memo in temp/handover-rmxxx-YYYYMMDD.md without touching existing docs, following required sections.
+---
 引き継ぎ指示
 
 - 既存ドキュメント（docs/ 配下を含む）は更新せず、temp/ ディレクトリに新規で引き継ぎメモを作成してください。ファイル名は temp/handover-rmxxx-YYYYMMDD.md（UTC ではなく作業環境日付）とし、Markdown 形式で記載します。

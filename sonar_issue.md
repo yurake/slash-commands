@@ -1,3 +1,6 @@
+---
+description: Retrieve SonarQube findings and file the highest-priority item as a GitHub issue without RM/todo linkage.
+---
 sonarqubeの指摘を取得し、最優先の1件をgithub issueに起票してください。
 
 前提:
